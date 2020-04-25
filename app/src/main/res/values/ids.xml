@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edtTen" type="id" />
+    <item name="edtNs" type="id" />
+    <item name="edtSt" type="id" />
+    <item name="checkradio" type="id" />
+    <item name="cbCf" type="id" />
+    <item name="cbXp" type="id" />
+    <item name="cbNn" type="id" />
+    <item name="cbNa" type="id" />
+    <item name="cbOn" type="id" />
+    <item name="btXn" type="id" />
+</resources>
